@@ -1,0 +1,2 @@
+# xmlunit-assertj-nosuchmethod
+ 
